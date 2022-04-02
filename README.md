@@ -1,5 +1,5 @@
 
-#  A Simple Password Manager
+#  LockSafe, A Simple Password Manager
 
 ## About the Project
 This application is a simple password manager that allows the user to
